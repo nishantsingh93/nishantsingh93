@@ -15,7 +15,7 @@ I build production systems where performance, data quality, and delivery matter.
 
 | Link | Destination |
 | --- | --- |
-| Portfolio | [nishantsingh93.github.io/nishantsingh.github.io](https://nishantsingh93.github.io/nishantsingh.github.io/) |
+| Portfolio | [nishantsingh93.github.io/](https://nishantsingh93.github.io/) |
 | LinkedIn | [linkedin.com/in/singh-nishant](https://www.linkedin.com/in/singh-nishant/) |
 | Email | [nishantsingh031893@gmail.com](mailto:nishantsingh031893@gmail.com) |
 
