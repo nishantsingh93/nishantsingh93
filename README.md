@@ -15,7 +15,7 @@ I build production systems where performance, data quality, and delivery matter.
 
 | Link | Destination |
 | --- | --- |
-| Portfolio | [nishantsingh93.github.io](https://nishantsingh93.github.io/) |
+| Portfolio | [nishantsingh-builds.github.io](https://nishantsingh-builds.github.io/) |
 | LinkedIn | [linkedin.com/in/singh-nishant](https://www.linkedin.com/in/singh-nishant/) |
 | Email | [nishantsingh031893@gmail.com](mailto:nishantsingh031893@gmail.com) |
 
@@ -60,7 +60,7 @@ I enjoy work that combines backend architecture, data platform reliability, and 
 
 | Project | What it explores |
 | --- | --- |
-| [Portfolio](https://nishantsingh93.github.io/nishantsingh.github.io/) | Selected engineering work, experience, and background. |
+| [Portfolio](https://nishantsingh-builds.github.io/) | Selected engineering work, experience, and background. |
 | [DataSentry](https://github.com/nishantsingh93/DataSentry) | PII detection and masking for AI service interactions. |
 | [Movie Revenue Prediction](https://github.com/nishantsingh93/Movie-Revenue-Prediction-) | Movie revenue prediction. |
 | [Young People Survey](https://github.com/nishantsingh93/Young-People-Survey) | Survey data exploration in notebooks. |
