@@ -16,7 +16,7 @@ I build production systems where performance, data quality, and delivery matter.
 | Link | Destination |
 | --- | --- |
 | LinkedIn | [linkedin.com/in/singh-nishant](https://www.linkedin.com/in/singh-nishant/) |
-| Email | [nishantsingh031893@gmail.com](mailto:nishantsingh031893@gmail.com) |
+
 
 ## Engineering Shape
 
@@ -70,4 +70,4 @@ Lead Software Engineer at Nike. Previously a Data Engineer at AWS and a Data Ana
 
 ## Contact
 
-For backend, data platform, or engineering leadership conversations, reach me on [LinkedIn](https://www.linkedin.com/in/singh-nishant/) or at [nishantsingh031893@gmail.com](mailto:nishantsingh031893@gmail.com).
+For backend, data platform, or engineering leadership conversations, reach me on [LinkedIn](https://www.linkedin.com/in/singh-nishant/) 
