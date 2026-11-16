@@ -60,7 +60,7 @@ I enjoy work that combines backend architecture, data platform reliability, and 
 | Project | What it explores |
 | --- | --- |
 | [DataSentry](https://github.com/nishantsingh93/DataSentry) | PII detection and masking for AI service interactions. |
-| [Movie Revenue Prediction](https://github.com/nishantsingh93/Movie-Revenue-Prediction-) | Movie revenue prediction. |
+| [AgentForge](https://github.com/nishantsingh93/agentforge) | AI coding agent evaluation and safety framework. |
 | [Young People Survey](https://github.com/nishantsingh93/Young-People-Survey) | Survey data exploration in notebooks. |
 | [App Store EDA](https://github.com/nishantsingh93/Appstore-EDA) | Exploratory analysis of an App Store dataset. |
 
